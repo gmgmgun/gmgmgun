@@ -1,6 +1,6 @@
 <h1 align="center"> 안녕하세요! 개발자 이동민 입니다!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=안녕하신가!;힘세고%20강한%20아침!;만일%20내게%20물어보면;나는%20동민.&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=안녕하신가!;힘세고%20강한%20아침!;만일%20내게%20물어보면,;나는%20동민.&center=true&width=500&height=50"></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack

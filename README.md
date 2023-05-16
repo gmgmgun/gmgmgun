@@ -1,5 +1,6 @@
 <h1 align="center"> 안녕하세요! 즐기는 개발자 이동민 입니다!</h1>
-![Uploading 20190911_162206_-695610828.gif…]()
+
+![20190911_162206_-695610828](https://github.com/gmgmgun/gmgmgun/assets/65591303/9a26cdd3-bc39-4999-8105-8c8bd4a35180)
 
 ### 🛠 &nbsp;Tech Stack
 

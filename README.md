@@ -1,7 +1,5 @@
 <h1 align="center"> 안녕하세요! 즐기는 개발자 이동민 입니다!</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=자왈,;아는%20사람은%20좋아하는%20사람만%20못하고,;좋아하는%20사람은%20즐기는%20사람만%20못하다;&center=true&width=500&height=50"></a>
-</p>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bar-d&show_icons=true&theme=radical"/>
 
 ### 🛠 &nbsp;Tech Stack
 

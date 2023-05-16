@@ -1,5 +1,5 @@
 <h1 align="center"> 안녕하세요! 즐기는 개발자 이동민 입니다!</h1>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bar-d&show_icons=true&theme=radical"/>
+![Uploading 20190911_162206_-695610828.gif…]()
 
 ### 🛠 &nbsp;Tech Stack
 

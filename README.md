@@ -1,6 +1,6 @@
-<h1 align="center"> 어제보다 발전하기 </h1>
-
-<img aling="center" alt="main-profile" src="[이미지 주소](https://github.com/gmgmgun/gmgmgun/assets/65591303/9a26cdd3-bc39-4999-8105-8c8bd4a35180)">
+<div align="center">
+![20190911_162206_-695610828](https://github.com/gmgmgun/gmgmgun/assets/65591303/e9a0f79a-4240-4ff3-9aa4-c0d48247b661)
+<div align="center">
 
 ### 🛠 &nbsp;Tech Stack
 

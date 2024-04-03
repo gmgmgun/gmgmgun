@@ -24,5 +24,5 @@
 <p align="center">
 <a href="mailto:gmgmgun@gmail.com"><img src="https://img.shields.io/badge/-gmgmgun@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gmgmgun/"><img src="https://img.shields.io/badge/-@gmgmgun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.velog.io/gmgmgun/posts"><img src="https://img.shields.io/badge/-@gmgmgun-1FBF00?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="https://www.velog.io/@gmgmgun/posts"><img src="https://img.shields.io/badge/-@gmgmgun-1FBF00?style=flat&logo=Velog&logoColor=white"/></a>
 </p>

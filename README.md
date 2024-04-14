@@ -19,7 +19,7 @@
 </a>
 </p>
   
-  ### 🤝🏻 &nbsp;Connect with Me & Other Blogs
+  ### 🤝🏻 &nbsp;Connect & Other Blogs
 
 <p align="center">
 <a href="mailto:gmgmgun@gmail.com"><img src="https://img.shields.io/badge/-gmgmgun@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>

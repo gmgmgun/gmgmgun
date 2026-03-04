@@ -9,8 +9,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MFC](https://img.shields.io/badge/MFC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&)&nbsp;
+![MFC](https://img.shields.io/badge/MFC-0078D6?style=flat&logo=windows&)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 

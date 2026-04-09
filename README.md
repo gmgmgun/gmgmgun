@@ -4,10 +4,13 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&)&nbsp;
 ![Windows](https://custom-icon-badges.demolab.com/badge/-Windows-05122A?logo=windows11&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics

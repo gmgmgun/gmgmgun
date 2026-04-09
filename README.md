@@ -1,5 +1,5 @@
-<div align=center>
-<img src="https://github.com/gmgmgun/gmgmgun/assets/65591303/e9a0f79a-4240-4ff3-9aa4-c0d48247b661">
+<div align="center">
+  <img src="https://github.com/gmgmgun/gmgmgun/assets/65591303/e9a0f79a-4240-4ff3-9aa4-c0d48247b661" width="100%">
 </div>
 
 ### 🛠 &nbsp;Tech Stack

@@ -2,17 +2,6 @@
   <img src="https://github.com/gmgmgun/gmgmgun/assets/65591303/e9a0f79a-4240-4ff3-9aa4-c0d48247b661" width="100%">
 </div>
 
-<!-- ══════════════════ TYPING ══════════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=58A6FF&center=true&vCenter=true&width=520&height=60&lines=gmgmgun;C%2B%2B;TypeScript;JavaScript;Python;React;Node.js" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gmgmgun&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
-</div>
-
-<br/>
-
 <!-- ══════════════════ TECH STACK ══════════════════ -->
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 
@@ -45,11 +34,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gmgmgun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gmgmgun&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
-</p>
-
-<!-- ══════════════════ ACTIVITY GRAPH ══════════════════ -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gmgmgun&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1f6feb&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <!-- ══════════════════ SNAKE ══════════════════ -->

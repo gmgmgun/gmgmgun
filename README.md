@@ -1,6 +1,3 @@
-<!-- ══════════════════ HEADER WAVE ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&section=header&reversal=false" />
-
 <div align="center">
   <img src="https://github.com/gmgmgun/gmgmgun/assets/65591303/e9a0f79a-4240-4ff3-9aa4-c0d48247b661" width="100%">
 </div>
@@ -76,6 +73,3 @@
   <a href="https://www.instagram.com/gmgmgun/"><img src="https://img.shields.io/badge/@gmgmgun-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://velog.io/@gmgmgun/posts"><img src="https://img.shields.io/badge/@gmgmgun-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 </p>
-
-<!-- ══════════════════ FOOTER WAVE ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&section=footer&reversal=true" />
